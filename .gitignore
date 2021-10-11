@@ -2,5 +2,3 @@ node_modules/
 vendor/
 .idea/
 package-lock.json
-app/wp/
-app/local-config.php
